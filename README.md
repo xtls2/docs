@@ -2,6 +2,8 @@
 
 安装/升级/重装
 
+常用命令
+
 ```
 curl https://oss.goant.xyz/install.sh | bash #安装/升级/重装
 systemctl start bate #启动
