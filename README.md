@@ -1,4 +1,4 @@
-# 软件安装
+# 命令说明
 
 安装/升级/重装
 
@@ -17,6 +17,8 @@ systemctl enable bate #设置开机自启（安装脚本默认会设定）
 #默认日志查看（若已自定义日志地址则自行更换）
 cat /var/local/bate/log.log
 
+#当前激活码查看
+bate -pass=true
 
 ```
 
